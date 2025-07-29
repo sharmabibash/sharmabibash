@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on multiple full-stack projects
 - 🌱 I’m learning advanced backend architectures and scalable deployments
 - 💬 Ask me about `Next.js`, `React Native`, `MongoDB`, `MySQL`, and anything tech
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **kumarbibash769@gmail.com**
 - ⚡ Fun fact: I love solving logic puzzles & exploring dev tools
 
 ---
