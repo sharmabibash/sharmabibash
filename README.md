@@ -26,11 +26,15 @@
 - 🔭 I’m currently working on multiple full-stack projects
 - 🌱 I’m learning advanced backend architectures and scalable deployments
 - 💬 Ask me about `Next.js`, `React Native`, `MongoDB`, `MySQL`, and anything tech
-- 📫 Reach me at: **kumarbibash769@gmail.com**
-- 📫 Reach me at: **bp-coding.com**
-- 📫 Reach me at: **thecricnerd.com.com**
-- 📫 Reach me at: **dreamskinnepal.com**
+- 📫 Reach me at: [Email Me](mailto:kumarbibash769@gmail.com)
+- 🌐 Visit my websites:
+  - [BP CODING](https://bp-coding.com)
+  - [The Cricket Nerd](https://thecricnerd.com)
+  - [Dream Skin Nepal](https://dreamskinnepal.com)
+  - [The Cricket Nerd - Mobile App](https://app.thecricnerd.com)
+  - [BP CODING - Mobile App](https://bp-coding.com/app)
 - ⚡ Fun fact: I love solving logic puzzles & exploring dev tools
+
 
 ---
 
