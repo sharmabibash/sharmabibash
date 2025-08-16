@@ -31,7 +31,7 @@
   - [BP CODING](https://bp-coding.com)
   - [The Cricket Nerd](https://thecricnerd.com)
   - [Dream Skin Nepal](https://dreamskinnepal.com)
-  - [The Cricket Nerd - Mobile App](https://app.thecricnerd.com)
+  - [The Cricket Nerd - Mobile App]([https://app.thecricnerd.com](https://play.google.com/store/apps/details?id=com.thecricnerd&pcampaignid=web_share))
   - [BP CODING - Mobile App](https://bp-coding.com/app)
 - ⚡ Fun fact: I love solving logic puzzles & exploring dev tools
 
