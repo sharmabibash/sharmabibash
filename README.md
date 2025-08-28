@@ -27,7 +27,7 @@
 - 🌱 I’m learning advanced backend architectures and scalable deployments
 - 💬 Ask me about `Next.js`, `React Native`, `MongoDB`, `MySQL`, and anything tech
 - 📫 Reach me at: [Email Me](mailto:kumarbibash769@gmail.com)
-- 🌐 Visit my websites:
+- 🌐 Visit my Recent Projects Mobile App & Websites:
   - [BP CODING](https://bp-coding.com)
   - [The Cricket Nerd](https://thecricnerd.com)
   - [Dream Skin Nepal](https://dreamskinnepal.com)
