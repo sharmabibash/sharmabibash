@@ -43,9 +43,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmabibash&show_icons=true&theme=radical" alt="Bibash's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmabibash&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmabibash&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmabibash&theme=radical" height="180"/>
 </p>
+
 
 ---
 
