@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bibash Sharma</h1>
 <h3 align="center">🚀 A passionate Full Stack Web & Mobile App Developer from Nepal 🇳🇵</h3>
+<h3 align="center">Note : My professional projects Repository has been privated. And you can visit deployed through the given link which is available below in About me section ..</h3>
+
 
 ---
 
