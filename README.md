@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibash Sharma</h1>
 <h3 align="center">🚀 A passionate Full Stack Web & Mobile App Developer from Nepal 🇳🇵</h3>
-<h3 align="center">Note : My professional projects Repository has been privated. And you can visit deployed through the given link which is available below in About me section ..</h3>
-
+<h3 align="center">Note: My professional projects repository is private. You can visit the deployed versions via the links in the About Me section below.</h3>
 
 ---
 
@@ -37,21 +36,27 @@
   - [BP CODING - Mobile App](https://bp-coding.com/app)
 - ⚡ Fun fact: I love solving logic puzzles & exploring dev tools
 
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmabibash&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmabibash&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmabibash&show_icons=true&count_private=true&theme=radical" alt="Bibash's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmabibash&layout=compact&count_private=true&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
+---
+
+### 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmabibash&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 
 ---
 
 ### 📈 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharmabibash&label=Profile%20views&color=0e75b6&style=flat" alt="profile view count" />
+  <img src="https://komarev.com/ghpvc/?username=sharmabibash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
